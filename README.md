@@ -1,6 +1,6 @@
-# first_app
+# Personality Quiz
 
-A new Flutter project.
+Trying out a udemy course and then improving upon the apps made in them.
 
 ## Getting Started
 
